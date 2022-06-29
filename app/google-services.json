@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "26534889229",
+    "project_id": "achat-23a01",
+    "storage_bucket": "achat-23a01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26534889229:android:de803422597aa7f06e5244",
+        "android_client_info": {
+          "package_name": "com.parth.anchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26534889229-sp5gfjtd909j2of7as8nsthkffrj6deh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPluuDIoJXMbmTcC_O6-SURB6to3KJS3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26534889229-sp5gfjtd909j2of7as8nsthkffrj6deh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
